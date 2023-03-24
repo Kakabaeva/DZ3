@@ -1,0 +1,15 @@
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.csproj.AssemblyReference.cache
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.AssemblyInfoInputs.cache
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.AssemblyInfo.cs
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.csproj.CoreCompileInputs.cache
+/Users/eminakakabaeva/Desktop/DZ3/bin/Debug/net6.0/DZ3
+/Users/eminakakabaeva/Desktop/DZ3/bin/Debug/net6.0/DZ3.deps.json
+/Users/eminakakabaeva/Desktop/DZ3/bin/Debug/net6.0/DZ3.runtimeconfig.json
+/Users/eminakakabaeva/Desktop/DZ3/bin/Debug/net6.0/DZ3.dll
+/Users/eminakakabaeva/Desktop/DZ3/bin/Debug/net6.0/DZ3.pdb
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.dll
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/refint/DZ3.dll
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.pdb
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/DZ3.genruntimeconfig.cache
+/Users/eminakakabaeva/Desktop/DZ3/obj/Debug/net6.0/ref/DZ3.dll
